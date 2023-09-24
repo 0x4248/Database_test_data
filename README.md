@@ -14,6 +14,16 @@ The following databases are available:
 - usernames_passwords_xxx.db (username, password)
 - usernames_passwords_hashed_xxx.db (username, sha256, md5)
 
+## Regenerating the databases
+
+To regenerate the databases, run the following command:
+
+```bash
+make
+```
+
+This will generate the databases and store them in the `database/` directory. You also need to have `faker` installed.
+
 ## License
 
 The data is free to use for any purpose. The data is provided "as is" without any warranty of any kind, either express or implied without limitation any implied warranties of merchantability or fitness for a particular purpose. In no event shall the author or copyright holder be liable for any damages whatsoever.
