@@ -1,6 +1,6 @@
 # Database test data
 
-This directory contains test data for sqlite3 database.
+A repository of databases for testing purposes
 
 ## Databases
 
