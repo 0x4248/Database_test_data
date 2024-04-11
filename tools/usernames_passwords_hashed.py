@@ -1,7 +1,7 @@
 # Database test data
 # A repository of databases for testing purposes
-# https://www.github.com/lewisevans2007/Database_test_data
-# By: Lewis Evans
+# https://www.github.com/0x4248/Database_test_data
+# By: 0x4248
 
 import sqlite3
 from faker import Faker
